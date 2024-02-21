@@ -1,4 +1,4 @@
-# Smartwatch
+# IoT System
 > The project aims to simulate a smartwatch in the role of publisher within the pub-sub paradigm using MQTT.
 > The simple GUI allows to trigger all the functions of the core SmartWatch class, like connecting, measuring and publishing data.
 > Fundamental is the presence and the coordination with an MQTT subscriber in order to make the application run properly.
